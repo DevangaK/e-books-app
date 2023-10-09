@@ -1,6 +1,6 @@
 # E-Book Platform
 
-Welcome to the E-Book Platform project! This project is aimed at providing a user-friendly and interactive e-book platform for book enthusiasts. ***Please note that, as of now, only the frontend of the application is being developed. The backend and database components will be developed in the future as the project progresses.***
+This project is aimed at providing a user-friendly and interactive e-book platform for book enthusiasts. ***Please note that, as of now, only the frontend of the application is being developed. The backend and database components will be developed in the future as the project progresses.***
 
 ## Features
 
